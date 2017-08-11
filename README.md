@@ -7,7 +7,7 @@
 - [GitGutter](https://github.com/jisaacks/GitGutter)
 - [Material Theme](https://github.com/equinusocio/material-theme)
 - [PHP Companion](https://github.com/erichard/SublimePHPCompanion)
-- [PHP CS Fixer](https://github.com/adael/SublimePhpCsFixer)
+- [PHP CS Fixer](https://github.com/adael/SublimePhpCsFixer): Need to copy the file .phpcsfixer in $HOME
 - [SideBarEnhancements](https://github.com/SideBarEnhancements-org/SideBarEnhancements)
 - [SnippetMaker](https://github.com/jugyo/SublimeSnippetMaker)
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
