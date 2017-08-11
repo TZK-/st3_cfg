@@ -1,0 +1,8 @@
+<?php     
+// This file must be placed in your $HOME
+
+return PhpCsFixer\Config::create()
+    ->setRules([
+       '@Symfony' => true,
+       'array_syntax' => ['syntax' => 'short'],
+    ]);
