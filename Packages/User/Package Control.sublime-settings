@@ -2,23 +2,36 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Fix Mac Path"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"DocBlockr_with_update_capability",
+		"Dockerfile Syntax Highlighting",
+		"DotENV",
 		"Emmet",
 		"Fix Mac Path",
 		"Git",
 		"GitGutter",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"LESS",
 		"Material Theme",
+		"Minify",
 		"Package Control",
 		"PHP Companion",
 		"PHP CS Fixer",
+		"Phpcs",
 		"SideBarEnhancements",
 		"SnippetMaker",
+		"SqlBeautifier",
 		"SublimeLinter",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-phpcs"
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Tomorrow Color Schemes"
 	]
 }

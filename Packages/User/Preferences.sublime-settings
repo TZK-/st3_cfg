@@ -1,11 +1,14 @@
 {
+	"atomic_save": false,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Consolas",
-	"font_size": 14,
+	"font_size": 13,
 	"ignored_packages":
 	[
+		"Fix Mac Path",
 		"Vintage"
 	],
 	"line_padding_bottom": 3,

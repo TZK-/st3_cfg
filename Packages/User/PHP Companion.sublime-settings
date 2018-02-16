@@ -1,0 +1,7 @@
+{
+    "namespace_prefix": "Cristal",
+    "exclude_dir": [
+        "public",
+        "resources"
+    ]
+}
